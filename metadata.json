@@ -1,0 +1,6 @@
+{
+  "name": "PHC-Aid Taraba",
+  "description": "An Offline-Ready AI Clinical Triage Assistant for Common Tropical Diseases in Primary Health Centers across Taraba State with English, Hausa, and Jukun Language Support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
